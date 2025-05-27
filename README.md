@@ -4,7 +4,7 @@ This is a powerful and versatile development board based on the **Allwinner V3s*
 
 ---
 <p align="center">
-  <img src="PCB.PNG" alt="Board Image" width="500">
+  <img src="PCB.PNG" alt="Board Image" width="700">
 </p>
 ---
 
