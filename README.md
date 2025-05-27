@@ -3,6 +3,10 @@
 This is a powerful and versatile development board based on the **Allwinner V3s** SoC, featuring an **ARM Cortex-A7** processor. Designed for multimedia, graphical, and IoT applications, the board offers a highly integrated platform for embedded systems development.
 
 ---
+<p align="center">
+  <img src="PCB.PNG" alt="Board Image" width="500">
+</p>
+---
 
 ## 🔧 Key Features
 
