@@ -39,3 +39,9 @@ This is a powerful and versatile development board based on the **Allwinner V3s*
   - 2x8 pin header for GPIO and peripherals
 
 ---
+Useful Links :
+
+[lichee pi zero](https://licheepizero.us/)
+ 
+[lichee pi zero Mega download Page](https://mega.nz/folder/5AAiSBwB#0jbOgqcrIMJVU9FvCzqb0A/folder/0d5mFJqR)
+
